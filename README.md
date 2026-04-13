@@ -1,6 +1,6 @@
 # MarkDown-Sample
 
-https://qiita.com/teppei19980914/items/36404f9ec9c786cde671?utm_campaign=daily_trend&utm_medium=web_push_notification&utm_source=qiita
+[Qiita:マークダウン記法は奥深く、楽しい](https://qiita.com/teppei19980914/items/36404f9ec9c786cde671?utm_campaign=daily_trend&utm_medium=web_push_notification&utm_source=qiita)
 
 # H1 — 記事タイトル（1記事に1つだけ）
 ## H2 — 大セクション
